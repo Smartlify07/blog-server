@@ -1,95 +1,396 @@
 {
-  "sunglasses" : [
+  "current_user": {
+    "userId": "o42ndhh"
+  },
+  "users": [
+    {
+      "id": "88ay2vc",
+      "name": "Obinna Anosike",
+      "email": "anosikeobinna895@gmail.com",
+      "bio": "",
+      "userProfileImage": "",
+      "posts": [
         {
-        "id": 81,
-        "title": "Round Silver Frame Sun Glasses",
-        "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,",
-        "price": 19,
-        "discountPercentage": 10.1,
-        "rating": 4.94,
-        "stock": 78,
-        "brand": "Designer Sun Glasses",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/M44AAOSwthxjVGaT/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/81/1.jpg",
-        "https://i.dummyjson.com/data/products/81/2.jpg",
-        "https://i.dummyjson.com/data/products/81/3.jpg",
-        "https://i.dummyjson.com/data/products/81/4.webp",
-        "https://i.dummyjson.com/data/products/81/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 82,
-        "title": "Kabir Singh Square Sunglass",
-        "description": "Orignal Metal Kabir Singh design 2020 Sunglasses Men Brand Designer Sun Glasses Kabir Singh Square Sunglass",
-        "price": 50,
-        "discountPercentage": 15.6,
-        "rating": 4.62,
-        "stock": 78,
-        "brand": "Designer Sun Glasses",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/OAQAAOSwNihj0PSm/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/82/1.jpg",
-        "https://i.dummyjson.com/data/products/82/2.webp",
-        "https://i.dummyjson.com/data/products/82/3.jpg",
-        "https://i.dummyjson.com/data/products/82/4.jpg",
-        "https://i.dummyjson.com/data/products/82/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 83,
-        "title": "Wiley X Night Vision Yellow Glasses",
-        "description": "Wiley X Night Vision Yellow Glasses for Riders - Night Vision Anti Fog Driving Glasses - Free Night Glass Cover - Shield Eyes From Dust and Virus- For Night Sport Matches",
-        "price": 30,
-        "discountPercentage": 6.33,
-        "rating": 4.97,
-        "stock": 115,
-        "brand": "mastar watch",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/cLsAAOSwV1JjZbJ4/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/83/1.jpg",
-        "https://i.dummyjson.com/data/products/83/2.jpg",
-        "https://i.dummyjson.com/data/products/83/3.jpg",
-        "https://i.dummyjson.com/data/products/83/4.jpg",
-        "https://i.dummyjson.com/data/products/83/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 84,
-        "title": "Square Sunglasses",
-        "description": "Fashion Oversized Square Sunglasses Retro Gradient Big Frame Sunglasses For Women One Piece Gafas Shade Mirror Clear Lens 17059",
-        "price": 28,
-        "discountPercentage": 13.89,
-        "rating": 4.64,
-        "stock": 64,
-        "brand": "mastar watch",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/x4UAAOSwcjhgg84n/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/84/1.jpg",
-        "https://i.dummyjson.com/data/products/84/2.jpg",
-        "https://i.dummyjson.com/data/products/84/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 85,
-        "title": "LouisWill Men Sunglasses",
-        "description": "LouisWill Men Sunglasses Polarized Sunglasses UV400 Sunglasses Day Night Dual Use Safety Driving Night Vision Eyewear AL-MG Frame Sun Glasses with Free Box for Drivers",
-        "price": 50,
-        "discountPercentage": 11.27,
-        "rating": 4.98,
-        "stock": 92,
-        "brand": "LouisWill",
-        "category": "sunglasses",
-        "thumbnail": "https://i.dummyjson.com/data/products/85/thumbnail.jpg",
-        "images": [
-        "https://i.dummyjson.com/data/products/85/1.jpg",
-        "https://i.dummyjson.com/data/products/85/2.jpg",
-        "https://i.dummyjson.com/data/products/85/thumbnail.jpg"
-        ]
+          "createdAt": 1717621563978,
+          "title": "Malachite",
+          "content": "Calachite",
+          "user": {
+            "name": "Obinna Anosike",
+            "userImage": ""
+          },
+          "upvotes": 0,
+          "comments": []
         }
-        ]
+      ]
+    },
+    {
+      "name": "Smartlify",
+      "bio": "A bio",
+      "userProfileImage": "http://res.cloudinary.com/dgpbznsc3/image/upload/v1717625978/lqhi7k0pwnvjl9jrltd2.webp",
+      "id": "5horudf",
+      "posts": [],
+      "comments": [
+        {
+          "comment_id": "mk6plyq",
+          "content": "mtv",
+          "username": "Smartlify",
+          "timestamp": 1718220888183,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "vmhbqys",
+      "name": "Obinna Anosike",
+      "email": "anosikeobinna895@gmail.com",
+      "bio": "",
+      "userProfileImage": "",
+      "posts": []
+    },
+    {
+      "id": "tuip4m4",
+      "name": "Anosike",
+      "email": "obinna@gmail.com",
+      "bio": "",
+      "userProfileImage": "",
+      "posts": [
+        {
+          "createdAt": 1718546146646,
+          "id": "wjisf7d",
+          "title": "Read",
+          "content": "Ment",
+          "user": {
+            "name": "Anosike",
+            "userImage": "",
+            "id": "tuip4m4"
+          },
+          "upvotes": 0,
+          "comments": []
+        }
+      ]
+    },
+    {
+      "id": "vopxo26",
+      "name": "Obinna Anosike",
+      "email": "anosike@gmail.com",
+      "bio": "",
+      "userProfileImage": "",
+      "posts": []
+    },
+    {
+      "id": "n8xpet4",
+      "name": "Obinna Anosike",
+      "email": "fufhf@gmail.com",
+      "bio": "",
+      "userProfileImage": "",
+      "posts": []
+    },
+    {
+      "id": "f9oure2",
+      "name": "Obinna Anosike",
+      "email": "smartlify09@gmail.com",
+      "bio": "",
+      "userProfileImage": "",
+      "posts": []
+    },
+    {
+      "id": "aim0nmq",
+      "name": "",
+      "email": "",
+      "bio": "",
+      "userProfileImage": "",
+      "posts": []
+    },
+    {
+      "id": "p05xlcy",
+      "name": "Obinna Anosike",
+      "email": "smartlify09@gmail.com",
+      "bio": "",
+      "userProfileImage": "",
+      "posts": []
+    },
+    {
+      "id": "m4oeyf1",
+      "name": "Obinna Anosike",
+      "email": "anosikeobinna895@gmail.com",
+      "bio": "",
+      "userProfileImage": "",
+      "posts": []
+    },
+    {
+      "id": "873wevo",
+      "name": "Obinna Anosike",
+      "email": "anosikeobinna895@gmail.com",
+      "bio": "",
+      "userProfileImage": "",
+      "posts": []
+    },
+    {
+      "id": "wswmycf",
+      "name": "Obinna Anosike",
+      "email": "smartlify09@gmail.com",
+      "bio": "",
+      "userProfileImage": "",
+      "posts": []
+    },
+    {
+      "id": "9zyx6kd",
+      "name": "Obinna Anosike",
+      "email": "anosike@gmail.com",
+      "bio": "",
+      "userProfileImage": "",
+      "posts": []
+    },
+    {
+      "id": "k97i05x",
+      "name": "Obinna Anosike",
+      "email": "anosike@gmail.com",
+      "bio": "",
+      "userProfileImage": "",
+      "posts": []
+    },
+    {
+      "id": "gmq2wm9",
+      "name": "Smartlify",
+      "email": "smartlify09@gmail.com",
+      "bio": "",
+      "userProfileImage": "",
+      "posts": []
+    },
+    {
+      "id": "7lyclc0",
+      "name": "Abinnas",
+      "email": "anosike@gmail.com",
+      "bio": "",
+      "userProfileImage": "",
+      "posts": []
+    },
+    {
+      "id": "ou8gx8r",
+      "name": "AnosikeObinna",
+      "email": "anosikeobinna895@gmail.com",
+      "bio": "",
+      "userProfileImage": "",
+      "posts": []
+    },
+    {
+      "id": "yti5orh",
+      "name": "Obinna Anosike",
+      "email": "anosikeobinna895@gmail.com",
+      "bio": "",
+      "userProfileImage": "",
+      "posts": []
+    },
+    {
+      "name": "Eved",
+      "bio": "",
+      "userProfileImage": "",
+      "id": "o42ndhh",
+      "posts": []
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "createdAt": "2024-05-21T10:15:30Z",
+      "title": "Exploring the Basics of Blogging",
+      "content": "This is the first blog post content\t. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "user": {
+        "name": "John Doe",
+        "userImage": "/images/blogs/johndoe.jpg",
+        "id": 1
+      },
+      "upvotes": 1504,
+      "blogCoverImage": "/images/blogs/covers/introtoblogging.jpg",
+      "comments": [
+        {
+          "comment_id": 1,
+          "username": "user123",
+          "content": "Great post! Really enjoyed reading it.",
+          "timestamp": "2024-05-23T10:00:00Z",
+          "replies": [
+            {
+              "reply_id": "y9qa2r4",
+              "content": "mtn",
+              "username": "Smartlify",
+              "timestamp": 1718237288937
+            },
+            {
+              "reply_id": "y83boj9",
+              "content": "Mtn",
+              "username": "Smartlify",
+              "timestamp": 1718237402709
+            }
+          ]
+        },
+        {
+          "comment_id": 2,
+          "username": "blogger456",
+          "content": "I disagree with your point about X, but overall good article.",
+          "timestamp": "2024-05-23T11:15:00Z",
+          "replies": [
+            {
+              "reply_id": "ckhmyzi",
+              "content": "mmq",
+              "username": "Smartlify",
+              "timestamp": 1718189249649
+            },
+            {
+              "reply_id": "ezdlkbh",
+              "content": "mmt",
+              "username": "Smartlify",
+              "timestamp": 1718189272344
+            }
+          ]
+        },
+        {
+          "comment_id": 3,
+          "username": "reader789",
+          "content": "Can you provide more details on Y? Thanks!",
+          "timestamp": "2024-05-23T12:30:00Z",
+          "replies": []
+        },
+        {
+          "comment_id": "5rbzscb",
+          "content": "Reply and comment",
+          "username": "Smartlify",
+          "timestamp": 1718121850017,
+          "replies": [
+            {
+              "reply_id": "a9n03m1",
+              "content": "mm",
+              "username": "Smartlify",
+              "timestamp": 1718144377038
+            }
+          ]
+        },
+        {
+          "comment_id": "bhh3vmv",
+          "content": "Msg",
+          "username": "Smartlify",
+          "timestamp": 1718122464831,
+          "replies": []
+        },
+        {
+          "comment_id": "qb3avbe",
+          "content": "Mg",
+          "username": "Smartlify",
+          "timestamp": 1718122476338,
+          "replies": []
+        },
+        {
+          "comment_id": "yx8db93",
+          "content": "Msg",
+          "username": "Smartlify",
+          "timestamp": 1718144022254,
+          "replies": []
+        },
+        {
+          "comment_id": "1n8aswd",
+          "content": "Sh",
+          "username": "Smartlify",
+          "timestamp": 1718144193803,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "createdAt": "2024-05-20T14:30:00Z",
+      "title": "Understanding Web Design Principles",
+      "content": "This is the second blog post content. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.",
+      "user": {
+        "name": "Jane Smith",
+        "userImage": "/images/blogs/janesmith.jpg",
+        "id": 2
+      },
+      "upvotes": 100,
+      "blogCoverImage": "/images/blogs/covers/webdesign.jpg",
+      "comments": [
+        {
+          "comment_id": 1,
+          "username": "user101",
+          "content": "This was very informative, thanks for sharing.",
+          "timestamp": "2024-05-23T13:45:00Z",
+          "replies": []
+        },
+        {
+          "comment_id": 2,
+          "username": "guest202",
+          "content": "I found some typos in the article. Please review.",
+          "timestamp": "2024-05-23T14:00:00Z",
+          "replies": []
+        },
+        {
+          "comment_id": "r71puam",
+          "content": "Mega",
+          "username": "Smartlify",
+          "timestamp": 1718730822370,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "createdAt": "2024-05-19T08:45:15Z",
+      "title": "Advanced Techniques in JavaScript",
+      "content": "This is the third blog post content. Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+      "user": {
+        "name": "Alice Johnson",
+        "userImage": "/images/blogs/alicejohnson.jpg",
+        "id": 3
+      },
+      "upvotes": 904,
+      "blogCoverImage": "/images/blogs/covers/advanced-javascript.jpg",
+      "comments": [
+        {
+          "comment_id": 1,
+          "username": "user101",
+          "content": "This was very informative.",
+          "timestamp": "2024-05-23T13:45:00Z",
+          "replies": []
+        },
+        {
+          "comment_id": 2,
+          "username": "guest202",
+          "content": "I found some typos in the article.",
+          "timestamp": "2024-05-23T14:00:00Z",
+          "replies": []
+        },
+        {
+          "comment_id": "lwcegfp",
+          "content": "SM",
+          "username": "Abinnas",
+          "timestamp": 1718730916687,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "wjisf7d",
+      "createdAt": 1718546146618,
+      "title": "Read",
+      "content": "Ment",
+      "user": {
+        "name": "Anosike",
+        "userImage": "",
+        "id": "tuip4m4"
+      },
+      "upvotes": 0,
+      "comments": []
+    },
+    {
+      "id": "8c454pm",
+      "createdAt": 1718738585311,
+      "title": "Men",
+      "content": "I'm done",
+      "user": {
+        "name": "Eves",
+        "userImage": "",
+        "id": "o42ndhh"
+      },
+      "upvotes": 0,
+      "comments": []
+    }
+  ]
 }
